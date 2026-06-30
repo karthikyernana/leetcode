@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0007-reverse-integer](https://github.com/karthikyernana/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/karthikyernana/leetcode/tree/master/0009-palindrome-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthikyernana/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
