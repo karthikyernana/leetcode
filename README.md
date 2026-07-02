@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/karthikyernana/leetcode/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthikyernana/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikyernana/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
