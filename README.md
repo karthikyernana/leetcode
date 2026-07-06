@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/karthikyernana/leetcode/tree/master/0066-plus-one) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
 | [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
