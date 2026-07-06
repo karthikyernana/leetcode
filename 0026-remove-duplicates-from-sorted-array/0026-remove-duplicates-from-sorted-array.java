@@ -1,20 +1,52 @@
+// class Solution {
+//     public int removeDuplicates(int[] nums) {
+
+//         LinkedHashSet<Integer> lHM = new LinkedHashSet<>(); 
+//         for(int i = 0; i < nums.length; i++)
+//         {
+//             lHM.add(nums[i]);
+
+
+//         }
+//         int i = 0;
+//         for(int elem : lHM)
+//         {
+//             nums[i++] = elem;
+
+//         }
+//         return lHM.size();
+        
+//     }
+// }
+
+
+
 class Solution {
     public int removeDuplicates(int[] nums) {
-
-        LinkedHashSet<Integer> lHM = new LinkedHashSet<>(); 
-        for(int i = 0; i < nums.length; i++)
+        int n = nums.length;
+        if(n == 1)
         {
-            lHM.add(nums[i]);
-
-
+            return 1;
         }
-        int i = 0;
-        for(int elem : lHM)
+
+        int left = 0;
+        int right = 1;
+
+        while(right < n)
         {
-            nums[i++] = elem;
-
+            if(nums[right] == nums[left])
+            {
+                right++;
+            }
+            else
+            {
+                left++;
+                nums[left] = nums[right];
+            }
         }
-        return lHM.size();
-        
+
+        return left + 1;
+
+
     }
 }
