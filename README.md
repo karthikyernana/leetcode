@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/karthikyernana/leetcode/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/karthikyernana/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
