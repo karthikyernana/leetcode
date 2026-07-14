@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/karthikyernana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthikyernana/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/karthikyernana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikyernana/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
+| [0977-squares-of-a-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
 | ------- |
