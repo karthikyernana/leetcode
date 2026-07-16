@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karthikyernana/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/karthikyernana/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/karthikyernana/leetcode/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/karthikyernana/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
