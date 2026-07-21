@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/karthikyernana/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/karthikyernana/leetcode/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/karthikyernana/leetcode/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/karthikyernana/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
