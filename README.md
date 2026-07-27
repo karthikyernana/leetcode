@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karthikyernana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karthikyernana/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikyernana/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/karthikyernana/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0933-number-of-recent-calls](https://github.com/karthikyernana/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
