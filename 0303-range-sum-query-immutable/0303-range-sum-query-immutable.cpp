@@ -1,7 +1,6 @@
 class NumArray {
 public:
     vector<int> p;
-    int ans=0;
 
     NumArray(vector<int>& nums) {
         p.push_back(nums[0]);
@@ -12,12 +11,12 @@ public:
     
     int sumRange(int left, int right) {
         if(left!=0){
-             ans=p[right]-p[left-1];
+             return p[right]-p[left-1];
         }else{
-                ans=p[right];
+                return p[right];
         }
        
-        return ans;
+        return 0;
     }
 };
 
