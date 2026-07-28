@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikyernana/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
 ## Stack
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/karthikyernana/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/karthikyernana/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/karthikyernana/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -73,12 +75,14 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/karthikyernana/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/karthikyernana/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
