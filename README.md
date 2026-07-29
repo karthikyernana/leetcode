@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0007-reverse-integer](https://github.com/karthikyernana/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/karthikyernana/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/karthikyernana/leetcode/tree/master/0066-plus-one) |
+| [0523-continuous-subarray-sum](https://github.com/karthikyernana/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/karthikyernana/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2396-strictly-palindromic-number](https://github.com/karthikyernana/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/karthikyernana/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/karthikyernana/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/karthikyernana/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/karthikyernana/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/karthikyernana/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/karthikyernana/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/karthikyernana/leetcode/tree/master/1480-running-sum-of-1d-array) |
