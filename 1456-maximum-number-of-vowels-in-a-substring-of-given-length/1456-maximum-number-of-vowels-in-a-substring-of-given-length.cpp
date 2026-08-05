@@ -7,7 +7,6 @@ public:
                 sum++;
             }
         }
-        int a=0;
         int mx=sum;
         for(int i=k;i<s.size();i++){
             
@@ -15,12 +14,10 @@ public:
                 sum++;
             }
 
-            if(s[a]=='a'||s[a]=='e'||s[a]=='i'||s[a]=='o'||s[a]=='u'){
+            if(s[i-k]=='a'||s[i-k]=='e'||s[i-k]=='i'||s[i-k]=='o'||s[i-k]=='u'){
                 sum--;
             }
             mx=max(mx,sum);
-
-            a++;
         }
         return mx;
     }
