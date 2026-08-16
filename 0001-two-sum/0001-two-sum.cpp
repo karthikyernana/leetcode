@@ -1,19 +1,18 @@
 class Solution {
 public:
+    unordered_map<int,int> mp;
+    vector<int> ans;
     vector<int> twoSum(vector<int>& nums, int target) {
-        
-        int n=nums.size();
-        unordered_map<int, int> tab;
-        
-        for(int i=0;i<n;i++){
-            int k=target-nums[i];
-            if(tab.contains(k)){
-                return {i,tab.at(k)};
-            }else{
-                tab[nums[i]]=i;
-            }
-
+       for(int i=0;i<nums.size();i++){
+        int val= target-nums[i];
+        if(mp.find(val)!= mp.end()){
+            ans.push_back(mp[val]);
+            ans.push_back(i);
+            return ans;
+        }else{
+            mp[nums[i]]=i;
         }
-        return {0};
+       } 
+       return ans;
     }
 };
