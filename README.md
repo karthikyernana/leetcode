@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikyernana/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/karthikyernana/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/karthikyernana/leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/karthikyernana/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/karthikyernana/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikyernana/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0015-3sum](https://github.com/karthikyernana/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/karthikyernana/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/karthikyernana/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
