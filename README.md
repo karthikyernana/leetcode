@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0217-contains-duplicate](https://github.com/karthikyernana/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/karthikyernana/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/karthikyernana/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/karthikyernana/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/karthikyernana/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikyernana/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/karthikyernana/leetcode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/karthikyernana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0125-valid-palindrome](https://github.com/karthikyernana/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikyernana/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/karthikyernana/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/karthikyernana/leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/karthikyernana/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/karthikyernana/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -180,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karthikyernana/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/karthikyernana/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
