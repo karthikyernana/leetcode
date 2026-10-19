@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/karthikyernana/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/karthikyernana/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Design
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikyernana/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/karthikyernana/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
