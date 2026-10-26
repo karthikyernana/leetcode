@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/karthikyernana/leetcode/tree/master/0175-combine-two-tables) |
 | [1757-recyclable-and-low-fat-products](https://github.com/karthikyernana/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
