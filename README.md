@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0178-rank-scores](https://github.com/karthikyernana/leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/karthikyernana/leetcode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/karthikyernana/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/karthikyernana/leetcode/tree/master/0197-rising-temperature) |
 | [1757-recyclable-and-low-fat-products](https://github.com/karthikyernana/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Divide and Conquer
 |  |
